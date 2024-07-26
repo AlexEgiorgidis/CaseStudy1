@@ -1,0 +1,29 @@
+{
+  "id": "36f394b6-8df3-4b33-add4-d475b5ec302f",
+  "name": "CustomerName Ext",
+  "publisher": "EgiorgidisAlex",
+  "version": "24.0.0.1",
+  "help": "https://www.EgiorgidisAlex.com/",
+  "url": "https://www.EgiorgidisAlex.com/",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "24.0.0.0",
+  "application": "24.2.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "target": "Cloud"
+}
+
